@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rebbit</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_hint">Login</string>
+    <string name="signup_hint">Sign Up</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="email_hint">Email</string>
+    <string name="signup_button_label">Sign Up</string>
+
+</resources>
